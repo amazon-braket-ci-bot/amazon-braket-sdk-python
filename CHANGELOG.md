@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.1.1 (2020-09-03)
+
+### Bug Fixes and Other Changes
+
+ * test 1
+
 ## v1.1.0 (2020-09-03)
 
 ### Features
@@ -29,4 +35,3 @@
  * test
  * Automatically publish to PyPi
  * add github action for stale issues
-
