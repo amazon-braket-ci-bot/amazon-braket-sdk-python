@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.1.2 (2020-09-04)
+
+### Bug Fixes and Other Changes
+
+ * fix version.py
+
 ## v1.1.1.post1 (2020-09-03)
 
 ### Testing and Release Infrastructure
