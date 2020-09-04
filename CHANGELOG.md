@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.1.3 (2020-09-04)
+
+### Bug Fixes and Other Changes
+
+ * fix version.py
+
 ## v1.1.2 (2020-09-04)
 
 ### Bug Fixes and Other Changes
